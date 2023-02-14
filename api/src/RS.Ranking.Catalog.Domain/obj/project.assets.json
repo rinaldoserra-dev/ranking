@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Flunt/1.0.3": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Flunt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flunt/1.0.3": {
+      "type": "project",
+      "path": "../Flunt/Flunt.csproj",
+      "msbuildProject": "../Flunt/Flunt.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Flunt >= 1.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\15331\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj",
+      "projectName": "RS.Ranking.Catalog.Domain",
+      "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj",
+      "packagesPath": "C:\\Users\\15331\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\15331\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj": {
+              "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

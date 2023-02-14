@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Infra.Data.EF\\RS.Ranking.Catalog.Infra.Data.EF.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj",
+        "projectName": "Flunt",
+        "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj",
+        "packagesPath": "C:\\Users\\15331\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\15331\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj",
+        "projectName": "RS.Ranking.Catalog.Application",
+        "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj",
+        "packagesPath": "C:\\Users\\15331\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\15331\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj": {
+                "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj",
+        "projectName": "RS.Ranking.Catalog.Domain",
+        "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\15331\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\15331\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj": {
+                "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\Flunt\\Flunt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Infra.Data.EF\\RS.Ranking.Catalog.Infra.Data.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Infra.Data.EF\\RS.Ranking.Catalog.Infra.Data.EF.csproj",
+        "projectName": "RS.Ranking.Catalog.Infra.Data.EF",
+        "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Infra.Data.EF\\RS.Ranking.Catalog.Infra.Data.EF.csproj",
+        "packagesPath": "C:\\Users\\15331\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Infra.Data.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\15331\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj": {
+                "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj"
+              },
+              "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj": {
+                "projectPath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

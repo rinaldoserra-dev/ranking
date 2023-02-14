@@ -1,0 +1,10 @@
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\bin\Debug\netcoreapp2.0\Flunt.deps.json
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\bin\Debug\netcoreapp2.0\Flunt.dll
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\bin\Debug\netcoreapp2.0\Flunt.pdb
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.AssemblyInfoInputs.cache
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.AssemblyInfo.cs
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.csproj.CoreCompileInputs.cache
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.dll
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.pdb
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.csproj.AssemblyReference.cache
+C:\TJSE\dev\Bolsa\bolsa-escola-webapi\Flunt\obj\Debug\netcoreapp2.0\Flunt.GeneratedMSBuildEditorConfig.editorconfig

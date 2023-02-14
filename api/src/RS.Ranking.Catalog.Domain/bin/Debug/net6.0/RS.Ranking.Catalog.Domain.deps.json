@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RS.Ranking.Catalog.Domain/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.3"
+        },
+        "runtime": {
+          "RS.Ranking.Catalog.Domain.dll": {}
+        }
+      },
+      "Flunt/1.0.3": {
+        "runtime": {
+          "Flunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RS.Ranking.Catalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flunt/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

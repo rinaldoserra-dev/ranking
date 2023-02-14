@@ -1,0 +1,15 @@
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\bin\Debug\net6.0\RS.Ranking.Catalog.Domain.deps.json
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\bin\Debug\net6.0\RS.Ranking.Catalog.Domain.dll
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\bin\Debug\net6.0\RS.Ranking.Catalog.Domain.pdb
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.csproj.AssemblyReference.cache
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.AssemblyInfoInputs.cache
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.AssemblyInfo.cs
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.dll
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\refint\RS.Ranking.Catalog.Domain.dll
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.pdb
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\ref\RS.Ranking.Catalog.Domain.dll
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\bin\Debug\net6.0\Flunt.dll
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\bin\Debug\net6.0\Flunt.pdb
+C:\dev\pessoal\Ranking\api\src\RS.Ranking.Catalog.Domain\obj\Debug\net6.0\RS.Ranking.Catalog.Domain.csproj.CopyComplete

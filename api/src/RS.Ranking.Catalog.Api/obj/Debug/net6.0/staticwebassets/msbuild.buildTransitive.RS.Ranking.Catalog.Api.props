@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RS.Ranking.Catalog.Api.props" />
+</Project>
