@@ -385,7 +385,7 @@
           }
         }
       },
-      "Flunt/1.0.3": {
+      "Flunt/1.0.0": {
         "runtime": {
           "Flunt.dll": {}
         }
@@ -401,7 +401,7 @@
       },
       "RS.Ranking.Catalog.Domain/1.0.0": {
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.0"
         },
         "runtime": {
           "RS.Ranking.Catalog.Domain.dll": {}
@@ -687,7 +687,7 @@
       "path": "system.text.json/7.0.0",
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
     },
-    "Flunt/1.0.3": {
+    "Flunt/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

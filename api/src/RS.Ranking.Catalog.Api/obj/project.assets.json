@@ -625,9 +625,9 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Flunt/1.0.3": {
+      "Flunt/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/Flunt.dll": {}
         },
@@ -653,7 +653,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.0"
         },
         "compile": {
           "bin/placeholder/RS.Ranking.Catalog.Domain.dll": {}
@@ -1803,7 +1803,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Flunt/1.0.3": {
+    "Flunt/1.0.0": {
       "type": "project",
       "path": "../Flunt/Flunt.csproj",
       "msbuildProject": "../Flunt/Flunt.csproj"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LtdXvSPJJ9ZXhstt1DRrEJhQ+VZe2iSqiQ9+toD6ruUJuFaieLz46dpMt4KHIeJG8n7mR7mL/l/qZ7Wx9YaW2w==",
+  "dgSpecHash": "BB7dBfpX6iMXdTg8Qx8BVyeeZNCwrXLC5kIYstMq6gS1LKPzpkDul//AnVNQ7B29TQch7ILsMnbCnpAZaMZ/dg==",
   "success": true,
   "projectFilePath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Api\\RS.Ranking.Catalog.Api.csproj",
   "expectedPackageFiles": [
@@ -40,8 +40,7 @@
     "C:\\Users\\15331\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\15331\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\15331\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\15331\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\15331\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+    "C:\\Users\\15331\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

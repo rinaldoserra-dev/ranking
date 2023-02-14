@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ge/1JDu7oC/mFBaBdWJYZcpSA/1HF1iOMl/0JStG5N1+8VgoI9sWTSOIUHA2FlGOsCzp1Vw0+x3cjFZVWKucaQ==",
+  "dgSpecHash": "Ki9GEt6aoq0d7EUQvq5oBiuTPNQydjSjKucopR7u8IywMUCDT1kVCk+hSfRWOYDp0AQAKEYo/qpNKnWZqsqeJg==",
   "success": true,
   "projectFilePath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Domain\\RS.Ranking.Catalog.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\15331\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

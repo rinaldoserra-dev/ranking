@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ixnev1uk4W5cCVvgJRSoLG6G2AWa7CzaqrK2ZvFPOR6T/XQ60hHlJRwjDF8/jbg9nDh52ztZ+uQdqddHgR8FMA==",
+  "dgSpecHash": "3FuZVUiWI1Pm54h/mHBv9D4Jq3XCDl/NF5l9G8hy2XB4so4zyS7OIR9+YICOlMsP00onmty4U56bLwW1S5pYRQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\pessoal\\Ranking\\api\\src\\RS.Ranking.Catalog.Application\\RS.Ranking.Catalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\15331\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
-    "C:\\Users\\15331\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\15331\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+    "C:\\Users\\15331\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -34,14 +34,14 @@
           }
         }
       },
-      "Flunt/1.0.3": {
+      "Flunt/1.0.0": {
         "runtime": {
           "Flunt.dll": {}
         }
       },
       "RS.Ranking.Catalog.Domain/1.0.0": {
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.0"
         },
         "runtime": {
           "RS.Ranking.Catalog.Domain.dll": {}
@@ -69,7 +69,7 @@
       "path": "mediatr.contracts/1.0.1",
       "hashPath": "mediatr.contracts.1.0.1.nupkg.sha512"
     },
-    "Flunt/1.0.3": {
+    "Flunt/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

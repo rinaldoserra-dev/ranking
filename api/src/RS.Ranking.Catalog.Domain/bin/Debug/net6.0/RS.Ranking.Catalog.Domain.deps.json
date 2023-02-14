@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "RS.Ranking.Catalog.Domain/1.0.0": {
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.0"
         },
         "runtime": {
           "RS.Ranking.Catalog.Domain.dll": {}
         }
       },
-      "Flunt/1.0.3": {
+      "Flunt/1.0.0": {
         "runtime": {
           "Flunt.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Flunt/1.0.3": {
+    "Flunt/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
